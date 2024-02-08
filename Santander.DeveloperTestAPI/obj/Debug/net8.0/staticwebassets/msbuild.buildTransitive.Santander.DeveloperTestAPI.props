@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Santander.DeveloperTestAPI.props" />
-</Project>
