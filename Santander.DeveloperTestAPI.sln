@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santander.DeveloperTestAPI", "Santander.DeveloperTestAPI\Santander.DeveloperTestAPI.csproj", "{FA7205B5-319D-472D-8A00-C26CC593EDF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A678C25-C5E2-4B50-866B-8929C7E96F24}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7205B5-319D-472D-8A00-C26CC593EDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7205B5-319D-472D-8A00-C26CC593EDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7205B5-319D-472D-8A00-C26CC593EDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7205B5-319D-472D-8A00-C26CC593EDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947C7874-C60D-4315-817E-6DFBBEA1D87C}
+	EndGlobalSection
+EndGlobal
